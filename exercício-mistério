@@ -1,0 +1,58 @@
+   26  cat inicio
+   27  cd misterio
+   28  ls
+   29  grep PISTA cena-do-crime
+   30  cd ..
+   31  ls
+   32  clear
+   33  ls
+   34  cat inicio
+   35  cd misterio
+   36  ls
+   37  grep PISTA cena-do-crime
+   38  grep Annabel pessoas
+   39  cd ruas
+   40  ls
+   41  head -n 176 Rua Haley
+   42  head -n 176 Rua_Haley
+   43  clear
+   44  ls
+   45  cd ..
+   46  ls
+   47  grep Annabel pessoas
+   48  cd ruas
+   49  head -n 40 Vila_Hart
+   50  head -n 173 Rua_Mattapan
+   51  head -n 179 Vila_Buckingham
+   52  clear
+   53  cd..
+   54  cd ..
+   55  ls
+   56  cd entrevistas
+   57  ls
+   58  cat entrevista-699607
+   59  cat entrevista-9437737
+   60  cat entrevista-47246024
+   61  cat entrevista-871877
+   62  Mr. Fuglsang is male and has brown hair.  Not the witness from the cafe.cd..
+   63  ls
+   64  cd ..
+   65  ls
+   66  grep PISTA cena-do-crim
+   67  grep PISTA cena-do-crime
+   68  ls
+   69  clear
+   70  cat automoveis
+   71  grep L337 -A 5 automoveis
+   72  clear
+   73  ls
+   74  cd associacoes
+   75  ls
+   76  grep AAA
+   77  grep AAA Jacqui Maher
+   78  grep Jacqui Maher AAA
+   79  grep Jeremy Bowers AAA
+   80  grep Joe Germuska AAA
+   81  grep Jacqui Maher Delta_SkyMiles
+   82  grep Jacqui Maher Biblioteca_da_Cidade
+   83  grep Jacqui Maher Museu_da_HistÃ³ria_do_Bash
